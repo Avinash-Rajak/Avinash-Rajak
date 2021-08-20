@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Avinash Rajak</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=avinash-rajak" alt="avinash-rajak" /></a> </p>
+
+
 
 - 🌱 I’m currently learning **FrontEnd Developement**
 
@@ -11,13 +12,13 @@
 
 - 📫 How to reach me **avinashrajak7433@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1pLoFIT-pfvB4kAWtru1DrUHWkhvKk5du/view?usp=sharing](https://drive.google.com/file/d/1pLoFIT-pfvB4kAWtru1DrUHWkhvKk5du/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1pLoFIT-pfvB4kAWtru1DrUHWkhvKk5du/view?usp=sharing)
 
 - ⚡ Fun fact **I Think I am Funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/linkedin.com/in/avinash-rajak" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/avinash-rajak" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/avinash-rajak" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/avinash-rajak" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
