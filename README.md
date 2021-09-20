@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **avinashrajak7433@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1pLoFIT-pfvB4kAWtru1DrUHWkhvKk5du/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1dAidR51kZ9mE1OopwqPnxHlfOxFN36hw/view?usp=sharing)
 
 - ⚡ Fun fact **I Think I am Funny**
 
