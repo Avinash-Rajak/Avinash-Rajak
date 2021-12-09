@@ -4,7 +4,7 @@
 
 
 
-- 🌱 I’m currently learning **FrontEnd Developement**
+- 🌱 I’m  **FrontEnd Developement**
 
 - 👨‍💻 All of my projects are available at [https://avinashrajak.netlify.app](https://avinashrajak.netlify.app)
 
